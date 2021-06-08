@@ -4,3 +4,8 @@ Article Model-
 Read
 Update
 Delete
+
+Route
+Controller#action
+model/db table
+view
