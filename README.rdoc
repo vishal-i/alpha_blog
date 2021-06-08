@@ -1,1 +1,6 @@
 Alpha_blog
+
+Article Model-
+Read
+Update
+Delete
