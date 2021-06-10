@@ -9,6 +9,7 @@ Delete
 front end- show an Article
 front end - Articles listing
 front end- Creating Articles
+front end - Error messages and flash helper (hash)
 
 Show action -Route Controller#action model/db table view
 
