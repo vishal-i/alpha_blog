@@ -9,7 +9,7 @@ class ArticlesController < ApplicationController
     end
 
     def new
-
+        @article= Article.new
     end
 
     def create 
@@ -18,9 +18,15 @@ class ArticlesController < ApplicationController
     #render plain: params[:article]
     #render plain: @article
     #render plain: @article.inspect
-    @article.save
+    if @article.save
+        flash[:notice]="Article was created successfully"
+        redirect_to @article
+    else
+        render 'new'
+    end
+
     #render 'new'
-   redirect_to @article
+   
   # puts @article.errors.full_messages
     
     end
