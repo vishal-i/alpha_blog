@@ -6,16 +6,14 @@ Read
 Update
 Delete
 
-<<<<<<< HEAD
 front end- show an Article
 front end - Articles listing
+front end- Creating Articles
 
 Show action -Route Controller#action model/db table view
 
 Index action- Added Articles Listing Controller
-=======
 Route
 Controller#action
 model/db table
 view
->>>>>>> 60a3f049c1619863ba3bfd31748db5fe5e0c0a1d
