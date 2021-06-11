@@ -48,4 +48,12 @@ class ArticlesController < ApplicationController
 
     end
 
+    def destroy
+        @article = Article.find(params[:id])
+        @article.destroy
+        puts @article.errors.full_messages
+        redirect_to articles_path
+    
+    end
+
 end

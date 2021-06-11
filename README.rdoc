@@ -11,6 +11,7 @@ front end - Articles listing
 front end- Creating Articles
 front end - Error messages and flash helper (hash)
 front end - Add article update feature
+front end - Destroying (deleting) articles
 
 Show action -Route Controller#action model/db table view
 
@@ -19,3 +20,6 @@ Route
 Controller#action
 model/db table
 view
+
+REST- Representational state transfer - mapping HTTP verbs (get, post, put/patch, delete) to CRUD actions
+resources provides REST-ful routes to Rails resources
