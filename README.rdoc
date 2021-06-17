@@ -26,3 +26,8 @@ REST- Representational state transfer - mapping HTTP verbs (get, post, put/patch
 resources provides REST-ful routes to Rails resources
 
 Add layout links
+
+DRY code- Dont Repeat Yourself
+
+- re-factoring
+- extract away the redundancies in code
