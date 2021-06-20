@@ -35,3 +35,4 @@ DRY code- Dont Repeat Yourself
 Bootstrap 4 installation
 Home page styling
 Homepage Links
+Form styling for new and edit
