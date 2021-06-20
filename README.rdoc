@@ -31,3 +31,6 @@ DRY code- Dont Repeat Yourself
 
 - re-factoring
 - extract away the redundancies in code
+
+Bootstrap 4 installation
+Home page styling
